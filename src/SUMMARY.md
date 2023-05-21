@@ -7,9 +7,9 @@
 # 技术
 - [网络安全](CyberSecurity/Security.md)
   - [SQL注入](CyberSecurity/SQLInjection.md)
-  - [XSS漏洞](CyberSecurity\XSSbug.md)
-  - [SSRF](CyberSecurity\SSRF.md)
-  - [序列化](CyberSecurity\serialize.md)
+  - [XSS漏洞](CyberSecurity/XSSbug.md)
+  - [SSRF](CyberSecurity/SSRF.md)
+  - [序列化](CyberSecurity/serialize.md)
 - [Linux](Linux/README.md)
 - [计算机网络](ComputerNet/计算机网络.md)
 - [Python](Python/README.md)
