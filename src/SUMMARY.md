@@ -5,7 +5,6 @@
 ---
 
 # 技术
-- [指南](README.md)
 - [网络安全](CyberSecurity/Security.md)
   - [SQL注入](CyberSecurity/SQLInjection.md)
   - [XSS漏洞](CyberSecurity\XSS漏洞.md)
