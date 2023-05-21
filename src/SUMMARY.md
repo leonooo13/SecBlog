@@ -14,5 +14,6 @@
 - [计算机网络](ComputerNet/计算机网络.md)
 - [Python](Python/README.md)
   - [基本的知识](Python/day1.md)
+  - [基本的知识2](Python/day2.md)
 - [文章](page/README.md)
 - [关于](about/README.md)
