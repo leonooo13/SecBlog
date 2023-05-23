@@ -1,6 +1,6 @@
 # Summar
 
-[说明](index.md)
+[主页](index.md)
 
 ---
 
@@ -15,5 +15,6 @@
 - [Python](Python/README.md)
   - [基本的知识](Python/day1.md)
   - [基本的知识2](Python/day2.md)
+- [GitHub](Github/workflow.md)
 - [文章](page/README.md)
 - [关于](about/README.md)
