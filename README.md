@@ -1,28 +1,35 @@
-### 在线预览
+# NexT
 
-[https://lzc6244.github.io/](https://lzc6244.github.io/)
+> 精于心，简于形
 
-### 使用方法
+NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
 
-- fork 本项目
-- 修改名字为：`yourname.github.io`
-- clone 到本地，参考 `_posts` 中的目录结构自己创建适合自己的文章目录结构
-    - 文件名格式为：`年-月-日-文章标题` （文章标题中的空格使用 `-` 代替）（JeKyll限制）
-- **必做**，修改 `_config.yml` 相关配置（耐心点看很简单，琢磨一下就OK）
-- 修改 CNAME 文件中的域名为自己的域名，无自己域名将 CNAME 文件删除即可
-- 本地调试（Windows）
-    - 编译
-        ```bash
-        jekyll build
-        ```
-    - 运行
-        ```bash
-        jekyll serve
-        ```
-    - 浏览器打开 `http://127.0.0.1:4000/` 访问测试
-    
-- 允许远程访问，将运行命令更改为 `jekyll serve --host=0.0.0.0`
+<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
 
-### JeKyll 说明
-1. 基于 [suyan.github.io](https://github.com/suyan/suyan.github.io)
-2. 本主题不支持使用 Markdown 创建表格，创建表格在 md 文件中使用 html 语句即可（已加入 css 优化表格展示）。[demo](https://lzc6244.github.io/2019/12/16/Xpath-轴与函数.html)
+[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
+
+
+## 浏览器支持 Browser support
+
+![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+
+
+## 贡献 Contributing
+
+欢迎提交问题与需求，修复代码。
+
+
+## 开发 Development
+
+NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
+
+NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+
+
+## 捐赠
+
+支付宝捐赠链接还是要有的，万一真的有人捐呢。
+
+![支付宝扫码捐赠](http://7lryc0.com1.z0.glb.clouddn.com/a6x049034plyvjm1rvn4h28%20%281%29.png)
