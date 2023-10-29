@@ -9,3 +9,6 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 /vendor
+_posts/demo.js
+_posts/demo.php
+_posts/test.html
