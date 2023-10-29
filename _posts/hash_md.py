@@ -13,4 +13,4 @@ def xctf():
             print("cipher",cipher)
             print('plain',plain)
             break   
-print("fafqafa".encode("utf-8"))
+print(ord('f'))
